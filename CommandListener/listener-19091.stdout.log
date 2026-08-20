@@ -1,0 +1,20 @@
+2026-08-10 14:22:02.665 | DEBUG | TCE config path=TCE\bin\Debug\XML\TCE-Checkwin_1.xml vlt_service=http://172.22.51.108:18081 callback_source=configured tce_ip=172.22.51.102 tce_port=19091 configured_callback_ip=172.22.51.102
+2026 08 10 14:22:02 ---> 1|0|TCE startup config=TCE\bin\Debug\XML\TCE-Checkwin_1.xml vlt_service=http://172.22.51.108:18081 callback=172.22.51.102:19091
+2026 08 10 14:22:02 ---> 1|0|TCE callback listener bound to: 172.22.51.102:19091
+2026-08-10 14:22:02.685 | DEBUG | Self-probing TCE callback listener http://172.22.51.102:19091/__self_probe__
+2026-08-10 14:22:02.687 | DEBUG | TCE callback self-probe from=172.22.51.102:52957 operation=UpdateVar
+2026-08-10 14:22:02.687 | DEBUG | "POST /__self_probe__ HTTP/1.1" 200 -
+2026-08-10 14:22:02.687 | DEBUG | TCE callback self-probe succeeded http://172.22.51.102:19091/__self_probe__
+2026 08 10 14:22:02 ---> 1|0|TCE callback self-probe succeeded: 172.22.51.102:19091/__self_probe__
+2026-08-10 14:22:02.689 | DEBUG | Preflight VLT SOAP service service=http://172.22.51.108:18081 callback=172.22.51.102:19091 timeout=2.0s
+2026 08 10 14:22:02 ---> 1|0|TCE1:1 runCheckwinFunction: settceendpoint(172.22.51.102:19091)
+2026-08-10 14:22:02.690 | DEBUG | Registering TCE endpoint service=http://172.22.51.108:18081 callback=172.22.51.102:19091
+2026-08-10 14:22:02.690 | DEBUG | SetTCEEndPoint request service=http://172.22.51.108:18081 callback=172.22.51.102:19091
+2026-08-10 14:22:02.694 | DEBUG | SOAP SetTCEEndPoint -> http://172.22.51.108:18081 status=200 bytes=522
+2026-08-10 14:22:02.716 | DEBUG | SOAP GetTCEEndPoint -> http://172.22.51.108:18081 status=200 bytes=556
+2026-08-10 14:22:02.716 | DEBUG | Endpoint registration service=http://172.22.51.108:18081 callback=172.22.51.102:19091 set_status=0 get_status=0 confirmed=172.22.51.102:19091
+2026 08 10 14:22:02 ---> 1|0|VLT's TCE Endpoint updated to: 172.22.51.102:19091
+2026 08 10 14:22:02 ---> 1|0|settceendpoint success, status: 1
+2026 08 10 14:22:32 ---> 1|0|No TCE callbacks received after 30 seconds. config=TCE\bin\Debug\XML\TCE-Checkwin_1.xml vlt_service=http://172.22.51.108:18081 callback=172.22.51.102:19091
+2026 08 10 14:22:32 ---> 1|0|TCE callback diagnostics: listener_bound=1 self_probe_passed=1 http_requests=0 parsed_callbacks=0 parse_errors=0 unhandled_callbacks=0 last_client=<none> last_operation=<none>
+2026 08 10 14:22:32 ---> 1|0|No inbound HTTP callback attempts reached the listener. Verify VLT reachability to 172.22.51.102:19091, local firewall rules, and that the callback IP is bound on this machine.
