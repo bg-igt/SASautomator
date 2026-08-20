@@ -1,0 +1,12 @@
+# Python 3.11 runtime dependencies for SASautomator.py.
+bcrypt==5.0.0
+cffi==2.1.0
+clr_loader==0.3.1
+cryptography==49.0.0
+invoke==3.0.3
+paramiko==5.0.0
+pycparser==3.0
+PyNaCl==1.6.2
+pyquicktest==3.5.1
+pysaelib==1.6.0
+pythonnet==3.1.0
