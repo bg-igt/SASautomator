@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<SaeContent CONTEXT_AWARE="true" DATE="2026-08-20T12:28:21Z" EDITOR_VERSION="3.12.0" GAME_COPYR="Copyright  IGT 2023" GAME_DESC="Fortune Owl" INTERPRETER_VERSION="AZ 0.0" MPT_FORMAT="MPT3V0" PAYTABLE_DLL="frtowla0-ar-ia-std_-005-0040-0005-_fxx" PAYTABLE_EPROM="FRTOWLA0-AR-IA-STD_-005-0040-0005-_FXX" PAYTABLE_UBID="s_0100106066" QTPTI_VERSION="AZ 0.0" SAE_CONTENT_FORMAT="1.12.0" VARIANT_EPROM="FRTOWLA0-AR-_A-STD_-005-0040-0005-_F90" VARIANT_IDENTIFIER="11744" VARIANT_INDEX="0" xmlns="urn:schemas-igt-com:mpt-sae2">
+
+  <Category name="Fever Games - All Symbol Wins">
+    <Snippet complete="true" name="Fever Games - White Owl Wins (Min Bet)" totalWin="1945">
+      <FeaturePot idx="0" value="109"/>
+      <FeaturePot idx="1" value="13"/>
+      <FeaturePot idx="2" value="14"/>
+      <FeaturePot idx="3" value="11"/>
+      <FeaturePot idx="4" value="109"/>
+      <FeaturePot idx="5" value="11"/>
+      <FeaturePot idx="6" value="12"/>
+      <FeaturePot idx="7" value="12"/>
+      <FeaturePot idx="8" value="107"/>
+      <FeaturePot idx="9" value="14"/>
+      <FeaturePot idx="10" value="12"/>
+      <FeaturePot idx="11" value="14"/>
+      <FeaturePot idx="12" value="109"/>
+      <FeaturePot idx="13" value="14"/>
+      <FeaturePot idx="14" value="14"/>
+      <FeaturePot idx="15" value="14"/>
+      <FeaturePot idx="16" value="108"/>
+      <FeaturePot idx="17" value="12"/>
+      <FeaturePot idx="18" value="10"/>
+      <FeaturePot idx="19" value="13"/>
+      <CappingLimit explicit="false" value="0"/>
+      <TotalExternalWin value="0"/>
+      <BetSituation betperline="1" denomcents="1" extracredit="0" lines="40" payment="1" sidebet="40">
+        <GameSpecific idx="0" value="0"/>
+        <GameSpecific idx="1" value="0"/>
+        <GameSpecific idx="2" value="0"/>
+        <GameSpecific idx="3" value="0"/>
+        <GameSpecific idx="4" value="0"/>
+        <GameSpecific idx="5" value="0"/>
+        <GameSpecific idx="6" value="0"/>
+        <GameSpecific idx="7" value="0"/>
+        <StakeItemInvariance betperline="false" denomcents="false" extracredit="false" gamespecifics="false" lines="false" payment="false" sidebet="false"/>
+      </BetSituation>
+      <NodeInfo complete="true" game_arg="1" game_idx="11">
+        <RandNum lower_inclusive="1" raw_a="3367174144" raw_b="3282534400" scaled_value="32351415" upper_inclusive="86309758"/>
+        <RandNum lower_inclusive="1" raw_a="293928960" raw_b="1849327616" scaled_value="9901" upper_inclusive="9901"/>
+        <RandNum lower_inclusive="1" raw_a="1325793280" raw_b="3324739584" scaled_value="1091" upper_inclusive="1213"/>
+        <RandNum lower_inclusive="0" raw_a="3752853504" raw_b="4161568768" scaled_value="2" upper_inclusive="2"/>
+        <RandNum lower_inclusive="0" raw_a="1105985536" raw_b="3128197120" scaled_value="19" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1105985536" raw_b="3128197120" scaled_value="19" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="3571777536" raw_b="1560969216" scaled_value="7" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1105985536" raw_b="980713472" scaled_value="9" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="3571777536" raw_b="1560969216" scaled_value="7" upper_inclusive="19"/>
+        <PengRelevance>1</PengRelevance>
+        <MaxRngNumbers>0</MaxRngNumbers>
+        <ConsumedRngNumbers>9</ConsumedRngNumbers>
+      </NodeInfo>
+      <NodeInfo complete="true" game_arg="1" game_idx="12">
+        <ReelSlot reels="5" rows="4">
+          <PrizeDescription>
+            <LinePrize line_id="0">10,12,12,17,6</LinePrize>
+          </PrizeDescription>
+          <Reel idx="0" stop_pos="5">
+            <RandNum lower_inclusive="0" raw_a="344915968" raw_b="1328185344" scaled_value="5900007" upper_inclusive="6400006"/>
+          </Reel>
+          <Reel idx="1" stop_pos="86">
+            <RandNum lower_inclusive="0" raw_a="4213309440" raw_b="15433728" scaled_value="2300001" upper_inclusive="7300036"/>
+          </Reel>
+          <Reel idx="2" stop_pos="17">
+            <RandNum lower_inclusive="0" raw_a="1103757312" raw_b="3060170752" scaled_value="3000020" upper_inclusive="4400022"/>
+          </Reel>
+          <Reel idx="3" stop_pos="91">
+            <RandNum lower_inclusive="0" raw_a="1484193792" raw_b="2495578112" scaled_value="9" upper_inclusive="600093"/>
+          </Reel>
+          <Reel idx="4" stop_pos="18">
+            <RandNum lower_inclusive="0" raw_a="3085303808" raw_b="2717745152" scaled_value="5700018" upper_inclusive="7500017"/>
+          </Reel>
+        </ReelSlot>
+        <PengRelevance>1</PengRelevance>
+        <MaxRngNumbers>0</MaxRngNumbers>
+        <ConsumedRngNumbers>5</ConsumedRngNumbers>
+      </NodeInfo>
+      <NodeInfo complete="true" game_arg="1" game_idx="10">
+        <RandNum lower_inclusive="1" raw_a="2516385792" raw_b="593657856" scaled_value="3333877617" upper_inclusive="4000000000"/>
+        <RandNum lower_inclusive="0" raw_a="3215982592" raw_b="3893133312" scaled_value="0" upper_inclusive="23"/>
+        <RandNum lower_inclusive="0" raw_a="2179727360" raw_b="1517584384" scaled_value="0" upper_inclusive="4"/>
+        <RandNum lower_inclusive="0" raw_a="1605369856" raw_b="940343296" scaled_value="0" upper_inclusive="5"/>
+        <PengRelevance>1</PengRelevance>
+        <MaxRngNumbers>0</MaxRngNumbers>
+        <ConsumedRngNumbers>4</ConsumedRngNumbers>
+      </NodeInfo>
+      <NodeInfo complete="true" game_arg="1" game_idx="9">
+        <RandNum lower_inclusive="1" raw_a="4014604288" raw_b="1934917632" scaled_value="167779174" upper_inclusive="167779174"/>
+        <RandNum lower_inclusive="1" raw_a="3002531840" raw_b="573931520" scaled_value="8028" upper_inclusive="8028"/>
+        <RandNum lower_inclusive="1" raw_a="1140981760" raw_b="1398636544" scaled_value="600026" upper_inclusive="600026"/>
+        <RandNum lower_inclusive="0" raw_a="2860187648" raw_b="4077813760" scaled_value="0" upper_inclusive="2"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <PengRelevance>5</PengRelevance>
+        <MaxRngNumbers>0</MaxRngNumbers>
+        <ConsumedRngNumbers>9</ConsumedRngNumbers>
+      </NodeInfo>
+      <NodeInfo complete="true" game_arg="1" game_idx="8">
+        <ReelSlot reels="5" rows="4">
+          <PrizeDescription>
+            <LinePrize line_id="0">2,2,2,2,2</LinePrize>
+          </PrizeDescription>
+          <Reel idx="0" stop_pos="2">
+            <RandNum lower_inclusive="0" raw_a="3786866688" raw_b="3428614144" scaled_value="600022" upper_inclusive="610022"/>
+          </Reel>
+          <Reel idx="1" stop_pos="9">
+            <RandNum lower_inclusive="0" raw_a="738656256" raw_b="3996614656" scaled_value="630051" upper_inclusive="700052"/>
+          </Reel>
+          <Reel idx="2" stop_pos="3">
+            <RandNum lower_inclusive="0" raw_a="179961856" raw_b="233799680" scaled_value="410036" upper_inclusive="430036"/>
+          </Reel>
+          <Reel idx="3" stop_pos="13">
+            <RandNum lower_inclusive="0" raw_a="217186304" raw_b="4235427840" scaled_value="560044" upper_inclusive="600052"/>
+          </Reel>
+          <Reel idx="4" stop_pos="4">
+            <RandNum lower_inclusive="0" raw_a="3855482880" raw_b="2651947008" scaled_value="690033" upper_inclusive="720033"/>
+          </Reel>
+        </ReelSlot>
+        <CreditWin value="250"/>
+        <PengRelevance>1</PengRelevance>
+        <MaxRngNumbers>0</MaxRngNumbers>
+        <ConsumedRngNumbers>5</ConsumedRngNumbers>
+      </NodeInfo>
+      <NodeInfo complete="true" game_arg="1" game_idx="9">
+        <RandNum lower_inclusive="1" raw_a="4014604288" raw_b="1934917632" scaled_value="167779174" upper_inclusive="167779174"/>
+        <RandNum lower_inclusive="1" raw_a="1174274048" raw_b="1753645056" scaled_value="10000" upper_inclusive="10000"/>
+        <RandNum lower_inclusive="1" raw_a="1140981760" raw_b="1398636544" scaled_value="600026" upper_inclusive="600026"/>
+        <RandNum lower_inclusive="0" raw_a="2860187648" raw_b="4077813760" scaled_value="0" upper_inclusive="2"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <PengRelevance>5</PengRelevance>
+        <MaxRngNumbers>0</MaxRngNumbers>
+        <ConsumedRngNumbers>9</ConsumedRngNumbers>
+      </NodeInfo>
+      <NodeInfo complete="true" game_arg="1" game_idx="8">
+        <ReelSlot reels="5" rows="4">
+          <PrizeDescription>
+            <LinePrize line_id="0">2,2,2,2,3</LinePrize>
+          </PrizeDescription>
+          <Reel idx="0" stop_pos="2">
+            <RandNum lower_inclusive="0" raw_a="3786866688" raw_b="3428614144" scaled_value="600022" upper_inclusive="610022"/>
+          </Reel>
+          <Reel idx="1" stop_pos="9">
+            <RandNum lower_inclusive="0" raw_a="738656256" raw_b="3996614656" scaled_value="630051" upper_inclusive="700052"/>
+          </Reel>
+          <Reel idx="2" stop_pos="3">
+            <RandNum lower_inclusive="0" raw_a="179961856" raw_b="233799680" scaled_value="410036" upper_inclusive="430036"/>
+          </Reel>
+          <Reel idx="3" stop_pos="13">
+            <RandNum lower_inclusive="0" raw_a="217186304" raw_b="4235427840" scaled_value="560044" upper_inclusive="600052"/>
+          </Reel>
+          <Reel idx="4" stop_pos="9">
+            <RandNum lower_inclusive="0" raw_a="3851812864" raw_b="2262990848" scaled_value="640033" upper_inclusive="720033"/>
+          </Reel>
+        </ReelSlot>
+        <CreditWin value="100"/>
+        <PengRelevance>1</PengRelevance>
+        <MaxRngNumbers>0</MaxRngNumbers>
+        <ConsumedRngNumbers>5</ConsumedRngNumbers>
+      </NodeInfo>
+      <NodeInfo complete="true" game_arg="1" game_idx="9">
+        <RandNum lower_inclusive="1" raw_a="4014604288" raw_b="1934917632" scaled_value="167779174" upper_inclusive="167779174"/>
+        <RandNum lower_inclusive="1" raw_a="1174274048" raw_b="1753645056" scaled_value="10000" upper_inclusive="10000"/>
+        <RandNum lower_inclusive="1" raw_a="1140981760" raw_b="1398636544" scaled_value="600026" upper_inclusive="600026"/>
+        <RandNum lower_inclusive="0" raw_a="2860187648" raw_b="4077813760" scaled_value="0" upper_inclusive="2"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <PengRelevance>5</PengRelevance>
+        <MaxRngNumbers>0</MaxRngNumbers>
+        <ConsumedRngNumbers>9</ConsumedRngNumbers>
+      </NodeInfo>
+      <NodeInfo complete="true" game_arg="1" game_idx="8">
+        <ReelSlot reels="5" rows="4">
+          <PrizeDescription>
+            <LinePrize line_id="0">2,2,2,9,4</LinePrize>
+          </PrizeDescription>
+          <Reel idx="0" stop_pos="2">
+            <RandNum lower_inclusive="0" raw_a="3786866688" raw_b="3428614144" scaled_value="600022" upper_inclusive="610022"/>
+          </Reel>
+          <Reel idx="1" stop_pos="83">
+            <RandNum lower_inclusive="0" raw_a="324141056" raw_b="3622338560" scaled_value="210019" upper_inclusive="700052"/>
+          </Reel>
+          <Reel idx="2" stop_pos="65">
+            <RandNum lower_inclusive="0" raw_a="320208896" raw_b="3967778816" scaled_value="15" upper_inclusive="430036"/>
+          </Reel>
+          <Reel idx="3" stop_pos="41">
+            <RandNum lower_inclusive="0" raw_a="4270653440" raw_b="3027992576" scaled_value="400032" upper_inclusive="600052"/>
+          </Reel>
+          <Reel idx="4" stop_pos="12">
+            <RandNum lower_inclusive="0" raw_a="3035234304" raw_b="491290624" scaled_value="610033" upper_inclusive="720033"/>
+          </Reel>
+        </ReelSlot>
+        <CreditWin value="20"/>
+        <PengRelevance>1</PengRelevance>
+        <MaxRngNumbers>0</MaxRngNumbers>
+        <ConsumedRngNumbers>5</ConsumedRngNumbers>
+      </NodeInfo>
+      <NodeInfo complete="true" game_arg="1" game_idx="9">
+        <RandNum lower_inclusive="1" raw_a="4014604288" raw_b="1934917632" scaled_value="167779174" upper_inclusive="167779174"/>
+        <RandNum lower_inclusive="1" raw_a="1174274048" raw_b="1753645056" scaled_value="10000" upper_inclusive="10000"/>
+        <RandNum lower_inclusive="1" raw_a="1140981760" raw_b="1398636544" scaled_value="600026" upper_inclusive="600026"/>
+        <RandNum lower_inclusive="0" raw_a="2860187648" raw_b="4077813760" scaled_value="0" upper_inclusive="2"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <PengRelevance>5</PengRelevance>
+        <MaxRngNumbers>0</MaxRngNumbers>
+        <ConsumedRngNumbers>9</ConsumedRngNumbers>
+      </NodeInfo>
+      <NodeInfo complete="true" game_arg="1" game_idx="8">
+        <ReelSlot reels="5" rows="4">
+          <PrizeDescription>
+            <LinePrize line_id="0">2,2,2,2,1</LinePrize>
+          </PrizeDescription>
+          <Reel idx="0" stop_pos="2">
+            <RandNum lower_inclusive="0" raw_a="3786866688" raw_b="3428614144" scaled_value="600022" upper_inclusive="610022"/>
+          </Reel>
+          <Reel idx="1" stop_pos="9">
+            <RandNum lower_inclusive="0" raw_a="738656256" raw_b="3996614656" scaled_value="630051" upper_inclusive="700052"/>
+          </Reel>
+          <Reel idx="2" stop_pos="3">
+            <RandNum lower_inclusive="0" raw_a="179961856" raw_b="233799680" scaled_value="410036" upper_inclusive="430036"/>
+          </Reel>
+          <Reel idx="3" stop_pos="13">
+            <RandNum lower_inclusive="0" raw_a="217186304" raw_b="4235427840" scaled_value="560044" upper_inclusive="600052"/>
+          </Reel>
+          <Reel idx="4" stop_pos="106">
+            <RandNum lower_inclusive="0" raw_a="1219559424" raw_b="3362750464" scaled_value="0" upper_inclusive="720033"/>
+          </Reel>
+        </ReelSlot>
+        <CreditWin value="250"/>
+        <PengRelevance>1</PengRelevance>
+        <MaxRngNumbers>0</MaxRngNumbers>
+        <ConsumedRngNumbers>5</ConsumedRngNumbers>
+      </NodeInfo>
+      <NodeInfo complete="true" game_arg="1" game_idx="9">
+        <RandNum lower_inclusive="1" raw_a="4014604288" raw_b="1934917632" scaled_value="167779174" upper_inclusive="167779174"/>
+        <RandNum lower_inclusive="1" raw_a="1174274048" raw_b="1753645056" scaled_value="10000" upper_inclusive="10000"/>
+        <RandNum lower_inclusive="1" raw_a="1140981760" raw_b="1398636544" scaled_value="600026" upper_inclusive="600026"/>
+        <RandNum lower_inclusive="0" raw_a="2860187648" raw_b="4077813760" scaled_value="0" upper_inclusive="2"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <RandNum lower_inclusive="0" raw_a="1212088320" raw_b="816218112" scaled_value="0" upper_inclusive="19"/>
+        <PengRelevance>5</PengRelevance>
+        <MaxRngNumbers>0</MaxRngNumbers>
+        <ConsumedRngNumbers>9</ConsumedRngNumbers>
+      </NodeInfo>
+      <NodeInfo complete="true" game_arg="1" game_idx="8">
+        <ReelSlot reels="5" rows="4">
+          <PrizeDescription>
+            <LinePrize line_id="0">1,1,1,2,2</LinePrize>
+          </PrizeDescription>
+          <Reel idx="0" stop_pos="84">
+            <RandNum lower_inclusive="0" raw_a="2481389568" raw_b="3688595456" scaled_value="0" upper_inclusive="610022"/>
+          </Reel>
+          <Reel idx="1" stop_pos="123">
+            <RandNum lower_inclusive="0" raw_a="1751777280" raw_b="3094904832" scaled_value="0" upper_inclusive="700052"/>
+          </Reel>
+          <Reel idx="2" stop_pos="80">
+            <RandNum lower_inclusive="0" raw_a="2402811904" raw_b="2482929664" scaled_value="0" upper_inclusive="430036"/>
+          </Reel>
+          <Reel idx="3" stop_pos="13">
+            <RandNum lower_inclusive="0" raw_a="217186304" raw_b="4235427840" scaled_value="560044" upper_inclusive="600052"/>
+          </Reel>
+          <Reel idx="4" stop_pos="4">
+            <RandNum lower_inclusive="0" raw_a="3855482880" raw_b="2651947008" scaled_value="690033" upper_inclusive="720033"/>
+          </Reel>
+        </ReelSlot>
+        <CreditWin value="1325"/>
+        <RandNum lower_inclusive="0" raw_a="1068498944" raw_b="2819391488" scaled_value="18" upper_inclusive="23"/>
+        <PengRelevance>1</PengRelevance>
+        <MaxRngNumbers>0</MaxRngNumbers>
+        <ConsumedRngNumbers>6</ConsumedRngNumbers>
+      </NodeInfo>
+      <NodeInfo complete="true" game_arg="1" game_idx="14">
+        <PengRelevance>1</PengRelevance>
+        <MaxRngNumbers>0</MaxRngNumbers>
+        <ConsumedRngNumbers>0</ConsumedRngNumbers>
+      </NodeInfo>
+    </Snippet>
+  </Category>
+
+</SaeContent>
