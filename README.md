@@ -1,1 +1,2 @@
-automates sending of generated/loaded snippets and track in-game data
+automates sending of generated/loaded snippets and track in-game data.
+Currently unfinished.
